@@ -1,4 +1,4 @@
-# Healthcare-Recommendation-System
+# AI Mental Health Companion 🧠💬
 
 HealthAI - AI-Powered Healthcare Platform
 A comprehensive healthcare recommendation platform that combines Flask backend with modern frontend technologies. Features real-time AI-powered personalized health recommendations using Gemini AI, medical NLP models, and a sophisticated recommendation system.
